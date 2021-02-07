@@ -2,13 +2,13 @@
 Demo game created with Pygame
 
 
-Requrements:
+Requirements:
 
 pygame==2.0.1
 python==3.8
 
 
-Credits
+Credits:
 
 Cat sprite – pzUH
 
