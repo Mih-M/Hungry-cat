@@ -4,8 +4,10 @@ Demo game created with Pygame
 
 Requirements:
 
-pygame==2.0.1
 python==3.8
+
+pygame==2.0.1
+
 
 
 Credits:
